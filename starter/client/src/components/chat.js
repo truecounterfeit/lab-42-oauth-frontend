@@ -1,4 +1,3 @@
-// TODO: Create a "Chat" component that simply renders the word "Chat" as a placeholder
 
 import React from 'react';
 
