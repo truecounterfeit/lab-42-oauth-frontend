@@ -8,7 +8,7 @@ class Navbar extends React.Component {
 
             <nav>
                 <ul>
-                   { /* TODO:  Need some dynamic links here for Logout, Profile, Chat to display only when you are logged in */
+                   {
                      renderIf (this.props.auth,
                        <React.Fragment>
                          <li button onClick ={this.goToChat}>Chat</button></li>
