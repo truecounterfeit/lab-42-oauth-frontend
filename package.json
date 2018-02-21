@@ -1,0 +1,23 @@
+{
+  "name": "lab-42-oauth-frontend",
+  "version": "1.0.0",
+  "description": "401 JS --  Lab 42 OAUTH FRONTEND ===",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truecounterfeit/lab-42-oauth-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truecounterfeit/lab-42-oauth-frontend/issues"
+  },
+  "homepage": "https://github.com/truecounterfeit/lab-42-oauth-frontend#readme",
+  "devDependencies": {
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
